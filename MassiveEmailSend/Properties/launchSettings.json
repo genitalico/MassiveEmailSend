@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MassiveEmailSend": {
+      "commandName": "Project",
+      "commandLineArgs": " -j config.json -c listEmail.csv -t template.html"
+    }
+  }
+}

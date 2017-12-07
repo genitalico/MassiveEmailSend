@@ -1,0 +1,9 @@
+{
+    "From": "genitalico",
+    "Email": "myemail@mycompany.com",
+    "Password": "password",
+    "SmtpServer": "smtp.server.com",
+    "Port": 587,
+    "Ssl": 0,
+    "Subject": "subject email"
+}
